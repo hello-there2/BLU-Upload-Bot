@@ -1,1 +1,8 @@
-.
+.gitignore
+.idea/BLU-Upload-Bot.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+**/__pycache__
+src/
+testing.py

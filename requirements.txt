@@ -1,0 +1,16 @@
+requests
+guessit
+IMDbPY>=2021.4.18
+pymediainfo
+requests-html
+tqdm
+tmdbsimple
+-e git+git://github.com/rndusr/torf.git@master#egg=torf
+ffmpeg-python
+colorful
+editdistance
+pybase64
+configparser
+unidecode
+qbittorrent-api
+pykakasi
